@@ -1,0 +1,40 @@
+h2{
+    color: hsla(229, 86%, 46%, 0.911);
+    width: auto;
+}
+
+
+.center{
+    box-sizing: border-box;
+    width: 95%;
+    margin:  auto;
+    border: dotted maroon;
+    vertical-align: middle;
+    
+}
+.company-logo{
+    border:  dotted rgb(223, 25, 223);
+    width: 20%;
+    display: inline-block;
+    box-sizing: border-box;
+    vertical-align: middle;
+}
+img{
+    box-sizing: border-box;
+    max-width: 50%;
+    min-width: 20%;
+    border:  dotted green;
+    border-radius: 50%;
+    align-self: center;
+}
+.company-name{
+    border:  dotted rgb(202, 138, 42);
+    width: 80%;
+    display: inline-block;
+    box-sizing: border-box;
+    h2{
+        font-size: 1rem;
+        text-align: center;
+        color:hsl(from rgb(52, 173, 4) h s l)
+    }   
+}
